@@ -63,7 +63,6 @@ function processFile(file, callback) {
 			var $el = $(el);
 			var attrs = $el.attr();
 			delete attrs['src'];
-			console.log(attrs);
 			
 			var $newEl = $('<a href="javascript:' + fileContents + '">' + $el.html() + '</a>');
 			
