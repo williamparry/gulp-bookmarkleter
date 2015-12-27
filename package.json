@@ -1,0 +1,24 @@
+{
+  "name": "gulp-bookmarkleter",
+  "description": "",
+  "version": "0.0.1",
+  "homepage": "",
+  "repository": {},
+  "author": {
+    "name": "William Parry",
+    "email": "williamparry@gmail.com",
+    "url": "http://williamparry.com/"
+  },
+  "tags": [],
+  "files": [],
+  "bin": {},
+  "man": [],
+  "dependencies": {
+    "async": "^1.5.0",
+    "cheerio": "^0.19.0",
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {}
+}
