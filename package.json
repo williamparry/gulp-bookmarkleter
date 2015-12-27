@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "homepage": "",
   "repository": {},
+  "main": "lib/index.js",
   "author": {
     "name": "William Parry",
     "email": "williamparry@gmail.com",
